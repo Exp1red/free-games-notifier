@@ -1,6 +1,6 @@
 {
-  "signature": "Free to Keep::AquaDream Soundtrack::https://store.steampowered.com/app/3502050/AquaDream_Soundtrack/?snr=1_7_7_2300_150_1|Free to Keep::Car Mechanic Simulator 2018::https://store.steampowered.com/app/645630/Car_Mechanic_Simulator_2018/?snr=1_7_7_2300_150_1|Free to Keep::Dino running from a FURRY: GAMESFORFARM::https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/?snr=1_7_7_2300_150_1|Free to Keep::Warhammer 40,000: Gladius - Relics of War::https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-05-21T19:53:55.377074+00:00",
+  "signature": "Free to Keep::AquaDream Soundtrack::https://store.steampowered.com/app/3502050/AquaDream_Soundtrack/?snr=1_7_7_2300_150_1|Free to Keep::Bunny Guys!::https://store.steampowered.com/app/2218460/Bunny_Guys/?snr=1_7_7_2300_150_1|Free to Keep::Bunny Hurling::https://store.steampowered.com/app/3515620/Bunny_Hurling/?snr=1_7_7_2300_150_1|Free to Keep::Car Mechanic Simulator 2018::https://store.steampowered.com/app/645630/Car_Mechanic_Simulator_2018/?snr=1_7_7_2300_150_1|Free to Keep::Dino running from a FURRY: GAMESFORFARM::https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/?snr=1_7_7_2300_150_1|Free to Keep::Warhammer 40,000: Gladius - Relics of War::https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-05-23T02:45:45.155915+00:00",
   "games": [
     {
       "type": "Free to Keep",
@@ -11,9 +11,23 @@
     },
     {
       "type": "Free to Keep",
+      "title": "Bunny Guys!",
+      "link": "https://store.steampowered.com/app/2218460/Bunny_Guys/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218460/87401e8287b6920ddda240cf0b0920ac058e083a/capsule_231x87.jpg?t=1778711514",
+      "time": "Limited Time Offer"
+    },
+    {
+      "type": "Free to Keep",
+      "title": "Bunny Hurling",
+      "link": "https://store.steampowered.com/app/3515620/Bunny_Hurling/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3515620/3dbc63e7653716e9be25c1648db7de5fe9485d70/capsule_231x87.jpg?t=1777999536",
+      "time": "Limited Time Offer"
+    },
+    {
+      "type": "Free to Keep",
       "title": "Car Mechanic Simulator 2018",
       "link": "https://store.steampowered.com/app/645630/Car_Mechanic_Simulator_2018/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/645630/capsule_231x87.jpg?t=1779384126",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/645630/capsule_231x87.jpg?t=1779478899",
       "time": "Limited Time Offer"
     },
     {
