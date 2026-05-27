@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **27 May 2026, 09:05 PM IST**  
+Last updated: **28 May 2026, 01:41 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -48,7 +48,6 @@ Source: Epic fallback from saved state, Steam live data
 
 ### Steam
 - **Bunny Guys!** - Free to Keep ([Open](https://store.steampowered.com/app/2218460/Bunny_Guys/?snr=1_7_7_2300_150_1))
-- **Car Mechanic Simulator 2018** - Free to Keep ([Open](https://store.steampowered.com/app/645630/Car_Mechanic_Simulator_2018/?snr=1_7_7_2300_150_1))
 - **Dino running from a FURRY: GAMESFORFARM** - Free to Keep ([Open](https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/?snr=1_7_7_2300_150_1))
 - **Warhammer 40,000: Gladius - Relics of War** - Free to Keep ([Open](https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->

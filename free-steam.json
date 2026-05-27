@@ -1,19 +1,12 @@
 {
-  "signature": "Free to Keep::Bunny Guys!::https://store.steampowered.com/app/2218460/Bunny_Guys/?snr=1_7_7_2300_150_1|Free to Keep::Car Mechanic Simulator 2018::https://store.steampowered.com/app/645630/Car_Mechanic_Simulator_2018/?snr=1_7_7_2300_150_1|Free to Keep::Dino running from a FURRY: GAMESFORFARM::https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/?snr=1_7_7_2300_150_1|Free to Keep::Warhammer 40,000: Gladius - Relics of War::https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-05-25T19:25:48.976408+00:00",
+  "signature": "Free to Keep::Bunny Guys!::https://store.steampowered.com/app/2218460/Bunny_Guys/?snr=1_7_7_2300_150_1|Free to Keep::Dino running from a FURRY: GAMESFORFARM::https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/?snr=1_7_7_2300_150_1|Free to Keep::Warhammer 40,000: Gladius - Relics of War::https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-05-27T20:11:12.927678+00:00",
   "games": [
     {
       "type": "Free to Keep",
       "title": "Bunny Guys!",
       "link": "https://store.steampowered.com/app/2218460/Bunny_Guys/?snr=1_7_7_2300_150_1",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2218460/87401e8287b6920ddda240cf0b0920ac058e083a/capsule_231x87.jpg?t=1778711514",
-      "time": "Limited Time Offer"
-    },
-    {
-      "type": "Free to Keep",
-      "title": "Car Mechanic Simulator 2018",
-      "link": "https://store.steampowered.com/app/645630/Car_Mechanic_Simulator_2018/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/645630/capsule_231x87.jpg?t=1779535716",
       "time": "Limited Time Offer"
     },
     {
