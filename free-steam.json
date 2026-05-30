@@ -1,19 +1,26 @@
 {
-  "signature": "Free to Keep::Dino running from a FURRY: GAMESFORFARM::https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/?snr=1_7_7_2300_150_1|Free to Keep::Drift86::https://store.steampowered.com/app/1070580/Drift86/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-05-29T20:21:20.831527+00:00",
+  "signature": "Free to Keep::Drift86::https://store.steampowered.com/app/1070580/Drift86/?snr=1_7_7_2300_150_1|Free to Keep::IQ Under Construction::https://store.steampowered.com/app/3771740/IQ_Under_Construction/?snr=1_7_7_2300_150_1|Free to Keep::Moonrise Fall::https://store.steampowered.com/app/1035110/Moonrise_Fall/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-05-30T19:08:58.058081+00:00",
   "games": [
-    {
-      "type": "Free to Keep",
-      "title": "Dino running from a FURRY: GAMESFORFARM",
-      "link": "https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3343840/039ec1eb76f5db8639cd463dd03649eeec628ad8/capsule_231x87.jpg?t=1779533610",
-      "time": "Limited Time Offer"
-    },
     {
       "type": "Free to Keep",
       "title": "Drift86",
       "link": "https://store.steampowered.com/app/1070580/Drift86/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1070580/capsule_231x87.jpg?t=1778267414",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1070580/capsule_231x87.jpg?t=1778267414",
+      "time": "Limited Time Offer"
+    },
+    {
+      "type": "Free to Keep",
+      "title": "IQ Under Construction",
+      "link": "https://store.steampowered.com/app/3771740/IQ_Under_Construction/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3771740/75f09654ecd47576900d091e6bfeea64784db147/capsule_231x87.jpg?t=1778708014",
+      "time": "Limited Time Offer"
+    },
+    {
+      "type": "Free to Keep",
+      "title": "Moonrise Fall",
+      "link": "https://store.steampowered.com/app/1035110/Moonrise_Fall/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1035110/capsule_231x87.jpg?t=1780107953",
       "time": "Limited Time Offer"
     }
   ]
