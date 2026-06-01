@@ -1,6 +1,6 @@
 {
-  "signature": "Free to Keep::Drift86::https://store.steampowered.com/app/1070580/Drift86/?snr=1_7_7_2300_150_1|Free to Keep::IQ Under Construction::https://store.steampowered.com/app/3771740/IQ_Under_Construction/?snr=1_7_7_2300_150_1|Free to Keep::Moonrise Fall::https://store.steampowered.com/app/1035110/Moonrise_Fall/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-05-30T19:08:58.058081+00:00",
+  "signature": "Free to Keep::Drift86::https://store.steampowered.com/app/1070580/Drift86/?snr=1_7_7_2300_150_1|Free to Keep::Gravity Circuit::https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1|Free to Keep::Moonrise Fall::https://store.steampowered.com/app/1035110/Moonrise_Fall/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-06-01T17:33:04.542191+00:00",
   "games": [
     {
       "type": "Free to Keep",
@@ -11,9 +11,9 @@
     },
     {
       "type": "Free to Keep",
-      "title": "IQ Under Construction",
-      "link": "https://store.steampowered.com/app/3771740/IQ_Under_Construction/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3771740/75f09654ecd47576900d091e6bfeea64784db147/capsule_231x87.jpg?t=1778708014",
+      "title": "Gravity Circuit",
+      "link": "https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/858710/capsule_231x87.jpg?t=1777568275",
       "time": "Limited Time Offer"
     },
     {
