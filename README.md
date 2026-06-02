@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **02 Jun 2026, 09:48 PM IST**  
+Last updated: **03 Jun 2026, 02:14 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -49,8 +49,8 @@ Source: Epic fallback from saved state, Steam live data
 ### Steam
 - **Drift86** - Free to Keep ([Open](https://store.steampowered.com/app/1070580/Drift86/?snr=1_7_7_2300_150_1))
 - **Gravity Circuit** - Free to Keep ([Open](https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1))
-- **Moonrise Fall** - Free to Keep ([Open](https://store.steampowered.com/app/1035110/Moonrise_Fall/?snr=1_7_7_2300_150_1))
 - **Tell Me Why** - Free to Keep ([Open](https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1))
+- **Winexy** - Free to Keep ([Open](https://store.steampowered.com/app/577740/Winexy/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---

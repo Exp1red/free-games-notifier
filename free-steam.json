@@ -1,6 +1,6 @@
 {
-  "signature": "Free to Keep::Drift86::https://store.steampowered.com/app/1070580/Drift86/?snr=1_7_7_2300_150_1|Free to Keep::Gravity Circuit::https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1|Free to Keep::Moonrise Fall::https://store.steampowered.com/app/1035110/Moonrise_Fall/?snr=1_7_7_2300_150_1|Free to Keep::Tell Me Why::https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-06-01T21:29:33.154675+00:00",
+  "signature": "Free to Keep::Drift86::https://store.steampowered.com/app/1070580/Drift86/?snr=1_7_7_2300_150_1|Free to Keep::Gravity Circuit::https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1|Free to Keep::Tell Me Why::https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1|Free to Keep::Winexy::https://store.steampowered.com/app/577740/Winexy/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-06-02T20:44:46.776925+00:00",
   "games": [
     {
       "type": "Free to Keep",
@@ -18,16 +18,16 @@
     },
     {
       "type": "Free to Keep",
-      "title": "Moonrise Fall",
-      "link": "https://store.steampowered.com/app/1035110/Moonrise_Fall/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1035110/capsule_231x87.jpg?t=1780107953",
+      "title": "Tell Me Why",
+      "link": "https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1180660/capsule_231x87.jpg?t=1780349055",
       "time": "Limited Time Offer"
     },
     {
       "type": "Free to Keep",
-      "title": "Tell Me Why",
-      "link": "https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1180660/capsule_231x87.jpg?t=1780349055",
+      "title": "Winexy",
+      "link": "https://store.steampowered.com/app/577740/Winexy/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/577740/capsule_231x87.jpg?t=1778879396",
       "time": "Limited Time Offer"
     }
   ]
