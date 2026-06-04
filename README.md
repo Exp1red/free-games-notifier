@@ -35,20 +35,20 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **04 Jun 2026, 08:23 PM IST**  
+Last updated: **05 Jun 2026, 01:31 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Calico** - free until `04 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/calico))
-- **LONESTAR** - free until `04 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/lonestar-83f143))
+- **Rogue Waters** - free until `11 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/rogue-waters-9764d6))
+- **Songs of Conquest** - free until `11 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/songs-of-conquest))
 
 ### Upcoming on Epic
-- **Rogue Waters** - starts `04 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/rogue-waters-9764d6))
-- **Songs of Conquest** - starts `04 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/songs-of-conquest))
+- **The Ouroboros King** - starts `11 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547))
 - **Warhammer 40K Speed Freeks** - starts `11 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c))
 
 ### Steam
 - **Gravity Circuit** - Free to Keep ([Open](https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1))
+- **Marathon** - Free Weekend ([Open](https://store.steampowered.com/app/3065800))
 - **Tell Me Why** - Free to Keep ([Open](https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1))
 - **Winexy** - Free to Keep ([Open](https://store.steampowered.com/app/577740/Winexy/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
