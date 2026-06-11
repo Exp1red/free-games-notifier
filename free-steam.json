@@ -1,7 +1,14 @@
 {
-  "signature": "Free to Keep::Gravity Circuit::https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1|Free to Keep::Happy's Humble Burger Farm::https://store.steampowered.com/app/1433340/Happys_Humble_Burger_Farm/?snr=1_7_7_2300_150_1|Free to Keep::Tell Me Why::https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1|Free to Keep::The Red Lantern::https://store.steampowered.com/app/1053710/The_Red_Lantern/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-06-11T15:54:50.385268+00:00",
+  "signature": "Free to Keep::Eets::https://store.steampowered.com/app/6100/Eets/?snr=1_7_7_2300_150_1|Free to Keep::Gravity Circuit::https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1|Free to Keep::Happy's Humble Burger Farm::https://store.steampowered.com/app/1433340/Happys_Humble_Burger_Farm/?snr=1_7_7_2300_150_1|Free to Keep::Tell Me Why::https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1|Free to Keep::The Red Lantern::https://store.steampowered.com/app/1053710/The_Red_Lantern/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-06-11T20:17:48.306240+00:00",
   "games": [
+    {
+      "type": "Free to Keep",
+      "title": "Eets",
+      "link": "https://store.steampowered.com/app/6100/Eets/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6100/fdac24d624d83e5517f60d040c2e91a8120387e9/capsule_231x87.jpg?t=1781207036",
+      "time": "Limited Time Offer"
+    },
     {
       "type": "Free to Keep",
       "title": "Gravity Circuit",
@@ -13,7 +20,7 @@
       "type": "Free to Keep",
       "title": "Happy's Humble Burger Farm",
       "link": "https://store.steampowered.com/app/1433340/Happys_Humble_Burger_Farm/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1433340/75cd4069e00d807a5f738a9ab3809aab7396e48c/capsule_231x87_alt_assets_0.jpg?t=1781103474",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1433340/75cd4069e00d807a5f738a9ab3809aab7396e48c/capsule_231x87_alt_assets_0.jpg?t=1781202018",
       "time": "Limited Time Offer"
     },
     {
