@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **12 Jun 2026, 08:22 PM IST**  
+Last updated: **13 Jun 2026, 01:36 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -52,6 +52,7 @@ Source: Epic fallback from saved state, Steam live data
 - **Happy's Humble Burger Farm** - Free to Keep ([Open](https://store.steampowered.com/app/1433340/Happys_Humble_Burger_Farm/?snr=1_7_7_2300_150_1))
 - **Tell Me Why** - Free to Keep ([Open](https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1))
 - **The Red Lantern** - Free to Keep ([Open](https://store.steampowered.com/app/1053710/The_Red_Lantern/?snr=1_7_7_2300_150_1))
+- **Wild Terra 2: New Lands** - Free to Keep ([Open](https://store.steampowered.com/app/1134700/Wild_Terra_2_New_Lands/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---
