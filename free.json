@@ -1,23 +1,7 @@
 {
-  "signature": "CURRENT:The Ouroboros King,Warhammer 40K Speed Freeks|UPCOMING:Citizen Sleeper,ROBOBEAT,Voidwrought",
-  "updated_at": "2026-06-17T15:20:22.818776+00:00",
+  "signature": "CURRENT:Citizen Sleeper,ROBOBEAT|UPCOMING:RollerCoaster Tycoon 3 Complete Edition,Voidwrought",
+  "updated_at": "2026-06-18T15:17:42.984506+00:00",
   "current_games": [
-    {
-      "title": "The Ouroboros King",
-      "image": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-jwabx.jpg",
-      "link": "https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547",
-      "start": "11 Jun 2026, 08:30 PM IST",
-      "end": "18 Jun 2026, 08:30 PM IST"
-    },
-    {
-      "title": "Warhammer 40K Speed Freeks",
-      "image": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg",
-      "link": "https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c",
-      "start": "11 Jun 2026, 08:30 PM IST",
-      "end": "18 Jun 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
     {
       "title": "Citizen Sleeper",
       "image": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-xudwg.jpg",
@@ -31,6 +15,15 @@
       "link": "https://store.epicgames.com/en-US/p/robobeat-5f084b",
       "start": "18 Jun 2026, 08:30 PM IST",
       "end": "25 Jun 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "RollerCoaster Tycoon 3 Complete Edition",
+      "image": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
+      "link": "https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition",
+      "start": "25 Jun 2026, 08:30 PM IST",
+      "end": "02 Jul 2026, 08:30 PM IST"
     },
     {
       "title": "Voidwrought",

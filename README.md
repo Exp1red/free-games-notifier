@@ -35,16 +35,15 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **18 Jun 2026, 03:46 PM IST**  
+Last updated: **18 Jun 2026, 08:47 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **The Ouroboros King** - free until `18 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547))
-- **Warhammer 40K Speed Freeks** - free until `18 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c))
+- **Citizen Sleeper** - free until `25 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/citizen-sleeper-944858))
+- **ROBOBEAT** - free until `25 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/robobeat-5f084b))
 
 ### Upcoming on Epic
-- **Citizen Sleeper** - starts `18 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/citizen-sleeper-944858))
-- **ROBOBEAT** - starts `18 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/robobeat-5f084b))
+- **RollerCoaster Tycoon 3 Complete Edition** - starts `25 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition))
 - **Voidwrought** - starts `25 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/voidwrought-ce8f4b))
 
 ### Steam
