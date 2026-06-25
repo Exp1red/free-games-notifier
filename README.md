@@ -35,16 +35,16 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **25 Jun 2026, 02:26 PM IST**  
+Last updated: **26 Jun 2026, 01:25 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Citizen Sleeper** - free until `25 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/citizen-sleeper-944858))
-- **ROBOBEAT** - free until `25 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/robobeat-5f084b))
+- **RollerCoaster Tycoon 3 Complete Edition** - free until `02 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition))
+- **Voidwrought** - free until `02 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/voidwrought-ce8f4b))
 
 ### Upcoming on Epic
-- **RollerCoaster Tycoon 3 Complete Edition** - starts `25 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition))
-- **Voidwrought** - starts `25 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/voidwrought-ce8f4b))
+- **I Have No Mouth, and I Must Scream** - starts `02 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2))
+- **River City Girls 2** - starts `02 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a))
 
 ### Steam
 - **Tell Me Why** - Free to Keep ([Open](https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1))
