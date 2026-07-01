@@ -298,13 +298,83 @@ code, pre { font-family: Consolas, "Courier New", monospace; }
 .tok-variable { color: var(--code-variable); }
 .tok-operator { color: var(--code-operator); }
 .footer { max-width: 1200px; margin: 0 auto; padding: 1rem 1.25rem 2.2rem; color: var(--muted); }
+
+/* SEO Section */
+.seo-section {
+  max-width: 1200px;
+  margin: 3.5rem auto 1.5rem;
+  padding: 0 1.25rem;
+}
+.seo-container {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 2.5rem;
+  background: var(--surface);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  padding: 2.2rem;
+  box-shadow: var(--shadow);
+}
+.tags-group h3, .faq-group h3 {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 1.35rem;
+  margin-top: 0;
+  margin-bottom: 1.2rem;
+}
+.tags-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+.tag-pill {
+  font-size: 0.85rem;
+  padding: 0.45rem 0.85rem;
+  border-radius: 99px;
+  background: rgba(255, 255, 255, 0.45);
+  border: 1px solid var(--border);
+  color: var(--muted);
+  cursor: default;
+  transition: all 0.2s ease;
+}
+:root[data-theme="dark"] .tag-pill {
+  background: rgba(255, 255, 255, 0.05);
+}
+.tag-pill:hover {
+  background: var(--surface-strong);
+  color: var(--text);
+  transform: translateY(-1px);
+}
+.faq-group {
+  display: flex;
+  flex-direction: column;
+  gap: 1.4rem;
+}
+.faq-item h4 {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 1.05rem;
+  margin: 0 0 0.45rem;
+}
+.faq-item p {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--muted);
+  margin: 0;
+}
+.faq-item a {
+  color: var(--text);
+  text-decoration: underline;
+}
+
 @keyframes riseIn { to { transform: translateY(0); opacity: 1; } }
 @media (max-width: 960px) {
   .hero, .board-grid, .summary-grid, .docs-grid { grid-template-columns: 1fr; }
   .toc-panel { position: static; }
+  .seo-container { grid-template-columns: 1fr; gap: 1.8rem; }
 }
 @media (max-width: 640px) {
   .topbar { flex-direction: column; align-items: flex-start; }
   .hero-copy { padding: 1.4rem; }
-  .panel, .summary-card, .doc-block, .toc-panel, .status-panel { padding: 1rem; }
+  .panel, .summary-card, .doc-block, .toc-panel, .status-panel, .seo-container { padding: 1.2rem; }
 }

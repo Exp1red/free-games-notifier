@@ -131,6 +131,78 @@ function highlightCodeBlocks() {
   });
 }
 
+function injectStructuredData(epicCurrent, steamGames) {
+  const existingSchema = document.getElementById("dynamic-schema");
+  if (existingSchema) {
+    existingSchema.remove();
+  }
+
+  const websiteSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Free Games Tracker",
+    "url": "https://jaixmario.github.io/free-games-notifier/",
+    "description": "Track active free games on Epic Games Store and Steam! Clean storefront board updated every 6 hours."
+  };
+
+  const gameItems = [];
+  let itemPosition = 1;
+
+  epicCurrent.forEach(game => {
+    gameItems.push({
+      "@type": "ListItem",
+      "position": itemPosition++,
+      "item": {
+        "@type": "VideoGame",
+        "name": game.title || "Free Game",
+        "url": game.link || "https://store.epicgames.com/",
+        "image": game.image || "",
+        "offers": {
+          "@type": "Offer",
+          "price": "0.00",
+          "priceCurrency": "USD",
+          "category": "freebies",
+          "availability": "https://schema.org/InStock",
+          "validThrough": game.end || ""
+        }
+      }
+    });
+  });
+
+  steamGames.forEach(game => {
+    gameItems.push({
+      "@type": "ListItem",
+      "position": itemPosition++,
+      "item": {
+        "@type": "VideoGame",
+        "name": game.title || "Free Game",
+        "url": game.link || "https://store.steampowered.com/",
+        "image": game.image || "",
+        "offers": {
+          "@type": "Offer",
+          "price": "0.00",
+          "priceCurrency": "USD",
+          "category": "freebies",
+          "availability": "https://schema.org/InStock"
+        }
+      }
+    });
+  });
+
+  const itemListSchema = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "numberOfItems": gameItems.length,
+    "itemListElement": gameItems
+  };
+
+  const scriptTag = document.createElement("script");
+  scriptTag.id = "dynamic-schema";
+  scriptTag.type = "application/ld+json";
+  scriptTag.text = JSON.stringify([websiteSchema, itemListSchema]);
+  document.head.appendChild(scriptTag);
+}
+
 async function boot() {
   initializeThemeToggle();
   highlightCodeBlocks();
@@ -162,6 +234,8 @@ async function boot() {
     renderList("steam-list", steamGames, {
       emptyText: "No Steam offers available.",
     });
+
+    injectStructuredData(epicCurrent, steamGames);
   } catch (error) {
     console.error(error);
     renderList("epic-current-list", [], { emptyText: "Could not load Epic current offers." });
