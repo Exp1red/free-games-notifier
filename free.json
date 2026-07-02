@@ -1,6 +1,6 @@
 {
-  "signature": "CURRENT:RollerCoaster Tycoon 3 Complete Edition,Voidwrought|UPCOMING:I Have No Mouth, and I Must Scream,River City Girls 2",
-  "updated_at": "2026-06-25T19:55:56.857694+00:00",
+  "signature": "CURRENT:RollerCoaster Tycoon 3 Complete Edition,Voidwrought|UPCOMING:I Have No Mouth, and I Must Scream,Nova Lands,River City Girls 2",
+  "updated_at": "2026-07-02T02:57:56.495944+00:00",
   "current_games": [
     {
       "title": "RollerCoaster Tycoon 3 Complete Edition",
@@ -24,6 +24,13 @@
       "link": "https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2",
       "start": "02 Jul 2026, 08:30 PM IST",
       "end": "09 Jul 2026, 08:30 PM IST"
+    },
+    {
+      "title": "Nova Lands",
+      "image": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
+      "link": "https://store.epicgames.com/en-US/p/nova-lands-4d1788",
+      "start": "09 Jul 2026, 08:30 PM IST",
+      "end": "16 Jul 2026, 08:30 PM IST"
     },
     {
       "title": "River City Girls 2",

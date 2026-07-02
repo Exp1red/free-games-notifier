@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **01 Jul 2026, 03:10 PM IST**  
+Last updated: **02 Jul 2026, 08:27 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -44,10 +44,11 @@ Source: Epic fallback from saved state, Steam live data
 
 ### Upcoming on Epic
 - **I Have No Mouth, and I Must Scream** - starts `02 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2))
+- **Nova Lands** - starts `09 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/nova-lands-4d1788))
 - **River City Girls 2** - starts `02 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a))
 
 ### Steam
-- **Tell Me Why** - Free to Keep ([Open](https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1))
+- No Steam freebies found.
 <!-- README_AUTO_SECTION:END -->
 
 ---
