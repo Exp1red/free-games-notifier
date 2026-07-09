@@ -1,30 +1,7 @@
 {
-  "signature": "CURRENT:I Have No Mouth, and I Must Scream,River City Girls 2|UPCOMING:Echo Generation: Midnight Edition,Nova Lands,Tattoo Tycoon",
-  "updated_at": "2026-07-08T19:20:27.899591+00:00",
+  "signature": "CURRENT:Nova Lands,Tattoo Tycoon|UPCOMING:Echo Generation: Midnight Edition,Luto",
+  "updated_at": "2026-07-09T19:40:55.632039+00:00",
   "current_games": [
-    {
-      "title": "I Have No Mouth, and I Must Scream",
-      "image": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png",
-      "link": "https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2",
-      "start": "02 Jul 2026, 08:30 PM IST",
-      "end": "09 Jul 2026, 08:30 PM IST"
-    },
-    {
-      "title": "River City Girls 2",
-      "image": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png",
-      "link": "https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a",
-      "start": "02 Jul 2026, 08:30 PM IST",
-      "end": "09 Jul 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
-    {
-      "title": "Echo Generation: Midnight Edition",
-      "image": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-49ac1.jpg",
-      "link": "https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026",
-      "start": "16 Jul 2026, 08:30 PM IST",
-      "end": "23 Jul 2026, 08:30 PM IST"
-    },
     {
       "title": "Nova Lands",
       "image": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
@@ -38,6 +15,22 @@
       "link": "https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c",
       "start": "09 Jul 2026, 08:30 PM IST",
       "end": "16 Jul 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "Echo Generation: Midnight Edition",
+      "image": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-49ac1.jpg",
+      "link": "https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026",
+      "start": "16 Jul 2026, 08:30 PM IST",
+      "end": "23 Jul 2026, 08:30 PM IST"
+    },
+    {
+      "title": "Luto",
+      "image": "https://cdn1.epicgames.com/spt-assets/eda0432529164b29b8a659d627d660e4/luto-14zrp.png",
+      "link": "https://store.epicgames.com/en-US/p/luto-0a4ab3",
+      "start": "16 Jul 2026, 08:30 PM IST",
+      "end": "23 Jul 2026, 08:30 PM IST"
     }
   ]
 }

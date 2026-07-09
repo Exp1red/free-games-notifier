@@ -35,20 +35,19 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **09 Jul 2026, 03:03 PM IST**  
+Last updated: **10 Jul 2026, 01:11 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **I Have No Mouth, and I Must Scream** - free until `09 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2))
-- **River City Girls 2** - free until `09 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a))
+- **Nova Lands** - free until `16 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/nova-lands-4d1788))
+- **Tattoo Tycoon** - free until `16 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c))
 
 ### Upcoming on Epic
 - **Echo Generation: Midnight Edition** - starts `16 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026))
-- **Nova Lands** - starts `09 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/nova-lands-4d1788))
-- **Tattoo Tycoon** - starts `09 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c))
+- **Luto** - starts `16 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/luto-0a4ab3))
 
 ### Steam
-- No Steam freebies found.
+- **Against the Storm** - Free Weekend ([Open](https://store.steampowered.com/app/1336490))
 <!-- README_AUTO_SECTION:END -->
 
 ---
