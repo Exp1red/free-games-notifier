@@ -170,9 +170,9 @@ def build_store_link(game):
     for candidate in candidate_paths:
         normalized = normalize_store_path(candidate)
         if normalized:
-            return f"https://store.epicgames.com/en-US/{normalized}"
+            return f"https://store.epicgames.com/ru/{normalized}"
 
-    return "https://store.epicgames.com/en-US/"
+    return "https://store.epicgames.com/ru/"
 
 
 def fetch_games():
@@ -530,7 +530,7 @@ def build_whatsapp_game_message(game, label):
             game["title"],
             f"Start: {game.get('start', 'N/A')}",
             f"End: {game.get('end', 'N/A')}",
-            f"Link: {game.get('link', 'https://store.epicgames.com/en-US/')}",
+            f"Link: {game.get('link', 'https://store.epicgames.com/ru/')}",
         ]
     )
 
