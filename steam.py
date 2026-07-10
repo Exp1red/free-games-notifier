@@ -27,8 +27,8 @@ def load_config():
             "secrets_file": "secrets.json",
         },
         "notifications": {
-            "email": True,
-            "telegram": True,
+            "email": False,
+            "telegram": False,
             "discord": True,
             "whatsapp": False,
         }
