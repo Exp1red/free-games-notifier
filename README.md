@@ -35,16 +35,16 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **10 Jul 2026, 02:59 PM IST**  
+Last updated: **12 Jul 2026, 05:19 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Nova Lands** - free until `16 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/nova-lands-4d1788))
-- **Tattoo Tycoon** - free until `16 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c))
+- **Nova Lands** - free until `16 Jul 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/nova-lands-4d1788))
+- **Tattoo Tycoon** - free until `16 Jul 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/tattoo-tycoon-b4352c))
 
 ### Upcoming on Epic
-- **Echo Generation: Midnight Edition** - starts `16 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026))
-- **Luto** - starts `16 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/luto-0a4ab3))
+- **Echo Generation: Midnight Edition** - starts `16 Jul 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/echo-generation-midnight-edition-069026))
+- **Luto** - starts `16 Jul 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/luto-0a4ab3))
 
 ### Steam
 - **Against the Storm** - Free Weekend ([Open](https://store.steampowered.com/app/1336490))
