@@ -115,19 +115,20 @@ pip install requests beautifulsoup4
 
 Create these repository secrets in `Settings -> Secrets and variables -> Actions`:
 
-| Secret Name | Description |
-|-------------|-------------|
-| `EMAIL` | Sender Gmail address |
-| `PASSWORD` | Gmail App Password |
-| `TO_EMAIL` | Recipient email address or comma-separated email addresses |
-| `TELEGRAM_BOT_TOKEN` | Telegram bot token from BotFather |
-| `TELEGRAM_CHAT_ID` | Telegram chat ID or comma-separated chat IDs |
-| `DISCORD_BOT_TOKEN` | Discord bot token from the Developer Portal |
-| `DISCORD_CHANNEL_ID` | Discord channel ID or comma-separated channel IDs |
-| `WHATSAPP_ACCESS_TOKEN` | Meta WhatsApp Cloud API bearer token |
-| `WHATSAPP_PHONE_NUMBER_ID` | WhatsApp Cloud API phone number ID |
-| `WHATSAPP_TO` | Recipient number or comma-separated numbers in international format |
-| `WHATSAPP_API_VERSION` | Optional Graph API version such as `v25.0` |
+| Secret Name                | Description                                                         |
+|----------------------------|---------------------------------------------------------------------|
+| `EMAIL`                    | Sender Gmail address                                                |
+| `PASSWORD`                 | Gmail App Password                                                  |
+| `TO_EMAIL`                 | Recipient email address or comma-separated email addresses          |
+| `TELEGRAM_BOT_TOKEN`       | Telegram bot token from BotFather                                   |
+| `TELEGRAM_CHAT_ID`         | Telegram chat ID or comma-separated chat IDs                        |
+| `DISCORD_BOT_TOKEN`        | Discord bot token from the Developer Portal                         |
+| `DISCORD_CHANNEL_ID`       | Discord channel ID or comma-separated channel IDs                   |
+| `DISCORD_WEBHOOK_URL`      | Discord webhook url or comma-separated webhook urls                 |
+| `WHATSAPP_ACCESS_TOKEN`    | Meta WhatsApp Cloud API bearer token                                |
+| `WHATSAPP_PHONE_NUMBER_ID` | WhatsApp Cloud API phone number ID                                  |
+| `WHATSAPP_TO`              | Recipient number or comma-separated numbers in international format |
+| `WHATSAPP_API_VERSION`     | Optional Graph API version such as `v25.0`                          |
 
 Use a Gmail App Password, not your normal account password. Each notification type is independent — you can enable only the ones you need via `config.json`.
 
@@ -143,6 +144,7 @@ Use a Gmail App Password, not your normal account password. Each notification ty
     "email": true,
     "telegram": true,
     "discord": true,
+    "discord_webhook" : true,
     "whatsapp": false
   }
 }
@@ -157,7 +159,7 @@ Set this in `config.json`:
 ```json
 {
   "secrets": {
-    "use_hardcoded_secrets": true,
+    "use_hardcoded_secrets": false,
     "secrets_file": "secrets.json"
   }
 }
@@ -179,6 +181,9 @@ Then fill `secrets.json` with your local values:
   "discord": {
     "bot_token": "YOUR_DISCORD_BOT_TOKEN",
     "channel_id": "YOUR_CHANNEL_ID"
+  },
+  "discord_webhook": {
+    "webhook_url": "YOUR_DISCORD_WEBHOOK_URL"
   },
   "whatsapp": {
     "access_token": "EAAG...",

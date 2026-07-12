@@ -1,12 +1,12 @@
 import json
 import os
 import smtplib
+import requests
 from datetime import datetime, timedelta, timezone
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from html import escape
 
-import requests
 from whatsapp import send_whatsapp_image, send_whatsapp_text
 
 SMTP_SERVER = "smtp.gmail.com"
@@ -27,6 +27,7 @@ def load_config():
             "email": True,
             "telegram": True,
             "discord": True,
+            "discord_webhook" : True,
             "whatsapp": False,
         }
     }
@@ -51,6 +52,7 @@ def load_config():
             "email": bool(notifications.get("email", True)),
             "telegram": bool(notifications.get("telegram", True)),
             "discord": bool(notifications.get("discord", True)),
+            "discord_webhook": bool(notifications.get("discord_webhook", True)),
             "whatsapp": bool(notifications.get("whatsapp", False)),
         }
     }
@@ -71,6 +73,7 @@ def load_secrets():
         email_data = data.get("email", {})
         telegram_data = data.get("telegram", {})
         discord_data = data.get("discord", {})
+        discord_webhook_data = data.get("discord_webhook", {})
         whatsapp_data = data.get("whatsapp", {})
         return {
             "EMAIL": str(email_data.get("email", "")),
@@ -80,6 +83,7 @@ def load_secrets():
             "TELEGRAM_CHAT_ID": str(telegram_data.get("chat_id", "")),
             "DISCORD_BOT_TOKEN": str(discord_data.get("bot_token", "")),
             "DISCORD_CHANNEL_ID": str(discord_data.get("channel_id", "")),
+            "DISCORD_WEBHOOK_URL": str(discord_webhook_data.get("webhook_url", "")),
             "WHATSAPP_ACCESS_TOKEN": str(whatsapp_data.get("access_token", "")),
             "WHATSAPP_PHONE_NUMBER_ID": str(whatsapp_data.get("phone_number_id", "")),
             "WHATSAPP_TO": str(whatsapp_data.get("to", "")),
@@ -94,6 +98,7 @@ def load_secrets():
         "TELEGRAM_CHAT_ID": os.getenv("TELEGRAM_CHAT_ID", ""),
         "DISCORD_BOT_TOKEN": os.getenv("DISCORD_BOT_TOKEN", ""),
         "DISCORD_CHANNEL_ID": os.getenv("DISCORD_CHANNEL_ID", ""),
+        "DISCORD_WEBHOOK_URL": os.getenv("DISCORD_WEBHOOK_URL", ""),
         "WHATSAPP_ACCESS_TOKEN": os.getenv("WHATSAPP_ACCESS_TOKEN", ""),
         "WHATSAPP_PHONE_NUMBER_ID": os.getenv("WHATSAPP_PHONE_NUMBER_ID", ""),
         "WHATSAPP_TO": os.getenv("WHATSAPP_TO", ""),
@@ -109,6 +114,7 @@ TELEGRAM_BOT_TOKEN = SECRETS["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID = SECRETS["TELEGRAM_CHAT_ID"]
 DISCORD_BOT_TOKEN = SECRETS["DISCORD_BOT_TOKEN"]
 DISCORD_CHANNEL_ID = SECRETS["DISCORD_CHANNEL_ID"]
+DISCORD_WEBHOOK_URL = SECRETS["DISCORD_WEBHOOK_URL"]
 WHATSAPP_ACCESS_TOKEN = SECRETS["WHATSAPP_ACCESS_TOKEN"]
 WHATSAPP_PHONE_NUMBER_ID = SECRETS["WHATSAPP_PHONE_NUMBER_ID"]
 WHATSAPP_TO = SECRETS["WHATSAPP_TO"]
@@ -127,6 +133,13 @@ def format_date_ist(date_str):
     except Exception:
         return "N/A"
 
+def format_date_nsk(date_str):
+    try:
+        utc_time = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+        nst_time = utc_time.astimezone(timezone(timedelta(hours=7)))
+        return nst_time.strftime("%d %b %Y, %H:%M")
+    except Exception:
+        return "N/A"
 
 def normalize_store_path(value):
     if not value:
@@ -205,8 +218,8 @@ def fetch_games():
                                 "title": title,
                                 "image": image,
                                 "link": link,
-                                "start": format_date_ist(offer.get("startDate")),
-                                "end": format_date_ist(offer.get("endDate")),
+                                "start": format_date_nsk(offer.get("startDate")),
+                                "end": format_date_nsk(offer.get("endDate")),
                             }
                         )
 
@@ -218,8 +231,8 @@ def fetch_games():
                                 "title": title,
                                 "image": image,
                                 "link": link,
-                                "start": format_date_ist(offer.get("startDate")),
-                                "end": format_date_ist(offer.get("endDate")),
+                                "start": format_date_nsk(offer.get("startDate")),
+                                "end": format_date_nsk(offer.get("endDate")),
                             }
                         )
         except Exception:
@@ -470,6 +483,19 @@ def _discord_post(payload):
         response = requests.post(url, headers=headers, json=payload, timeout=30)
         response.raise_for_status()
 
+def _discord_webhook_post(payload):
+    """POST message to the Discord via webhook"""
+    webhook_urls = parse_csv_values(DISCORD_WEBHOOK_URL)
+    if not DISCORD_WEBHOOK_URL or not webhook_urls:
+        return
+    for webhook_url in webhook_urls:
+        response = requests.post(
+            webhook_url,
+            json=payload,
+            timeout=30
+        )
+        response.raise_for_status()
+
 
 def build_discord_game_embed(game, label, colour):
     embed = {
@@ -477,8 +503,8 @@ def build_discord_game_embed(game, label, colour):
         "url": game["link"],
         "color": colour,
         "fields": [
-            {"name": "Start", "value": game.get("start", "N/A"), "inline": True},
-            {"name": "End",   "value": game.get("end", "N/A"),   "inline": True},
+            {"name": "Начало", "value": game.get("start", "N/A"), "inline": True},
+            {"name": "Бесплатно до",   "value": game.get("end", "N/A"),   "inline": True},
         ],
         "footer": {"text": label},
     }
@@ -511,6 +537,31 @@ def send_discord_notifications(current_games, upcoming_games):
     for game in upcoming_games:
         embed = build_discord_game_embed(game, "\ud83d\udfe1 Epic Upcoming", 0xFACC15)
         _discord_post({"embeds": [embed]})
+
+
+def send_discord_webhook_notifications(current_games, upcoming_games):
+
+    if not CONFIG["notifications"]["discord_webhook"]:
+        return
+
+    if not DISCORD_WEBHOOK_URL:
+        return
+
+    # Summary message
+    summary_lines = [
+        "**🎮 Обновление бесплатных игр Epic Games**",
+        f"🟢 **Сейчас доступно:** {len(current_games)}",
+        f"🟡 **Очередные раздачи:** {len(upcoming_games)}",
+    ]
+    _discord_webhook_post({"content": "\n".join(summary_lines)})
+
+    for game in current_games:
+        embed = build_discord_game_embed(game, "\ud83d\udfe2 Сейчас бесплатно на Epic Games", 0x22C55E)
+        _discord_webhook_post({"embeds": [embed]})
+
+    for game in upcoming_games:
+        embed = build_discord_game_embed(game, "\ud83d\udfe1 Очередные раздачи на Epic Games", 0xFACC15)
+        _discord_webhook_post({"embeds": [embed]})
 
 
 def build_whatsapp_summary(current_games, upcoming_games):
@@ -611,6 +662,7 @@ if __name__ == "__main__":
         send_email(subject, html)
         send_telegram_notifications(current_games, upcoming_games)
         send_discord_notifications(current_games, upcoming_games)
+        send_discord_webhook_notifications(current_games, upcoming_games)
         send_whatsapp_notifications(current_games, upcoming_games)
         save_state(signature, current_games, upcoming_games)
         print("Notifications sent and JSON state saved.")

@@ -1,36 +1,36 @@
 {
   "signature": "CURRENT:Nova Lands,Tattoo Tycoon|UPCOMING:Echo Generation: Midnight Edition,Luto",
-  "updated_at": "2026-07-09T19:40:55.632039+00:00",
+  "updated_at": "2026-07-12T11:02:54.613038+00:00",
   "current_games": [
     {
       "title": "Nova Lands",
       "image": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
-      "link": "https://store.epicgames.com/en-US/p/nova-lands-4d1788",
-      "start": "09 Jul 2026, 08:30 PM IST",
-      "end": "16 Jul 2026, 08:30 PM IST"
+      "link": "https://store.epicgames.com/ru/p/nova-lands-4d1788",
+      "start": "09 Jul 2026, 22:00",
+      "end": "16 Jul 2026, 22:00"
     },
     {
       "title": "Tattoo Tycoon",
       "image": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg",
-      "link": "https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c",
-      "start": "09 Jul 2026, 08:30 PM IST",
-      "end": "16 Jul 2026, 08:30 PM IST"
+      "link": "https://store.epicgames.com/ru/p/tattoo-tycoon-b4352c",
+      "start": "09 Jul 2026, 22:00",
+      "end": "16 Jul 2026, 22:00"
     }
   ],
   "upcoming_games": [
     {
       "title": "Echo Generation: Midnight Edition",
       "image": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-49ac1.jpg",
-      "link": "https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026",
-      "start": "16 Jul 2026, 08:30 PM IST",
-      "end": "23 Jul 2026, 08:30 PM IST"
+      "link": "https://store.epicgames.com/ru/p/echo-generation-midnight-edition-069026",
+      "start": "16 Jul 2026, 22:00",
+      "end": "23 Jul 2026, 22:00"
     },
     {
       "title": "Luto",
       "image": "https://cdn1.epicgames.com/spt-assets/eda0432529164b29b8a659d627d660e4/luto-14zrp.png",
-      "link": "https://store.epicgames.com/en-US/p/luto-0a4ab3",
-      "start": "16 Jul 2026, 08:30 PM IST",
-      "end": "23 Jul 2026, 08:30 PM IST"
+      "link": "https://store.epicgames.com/ru/p/luto-0a4ab3",
+      "start": "16 Jul 2026, 22:00",
+      "end": "23 Jul 2026, 22:00"
     }
   ]
 }

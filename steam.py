@@ -30,6 +30,7 @@ def load_config():
             "email": True,
             "telegram": True,
             "discord": True,
+            "discord_webhook" : True,
             "whatsapp": False,
         }
     }
@@ -54,6 +55,7 @@ def load_config():
             "email": bool(notifications.get("email", True)),
             "telegram": bool(notifications.get("telegram", True)),
             "discord": bool(notifications.get("discord", True)),
+            "discord_webhook": bool(notifications.get("discord_webhook", True)),
             "whatsapp": bool(notifications.get("whatsapp", False)),
         }
     }
@@ -74,6 +76,7 @@ def load_secrets():
         email_data = data.get("email", {})
         telegram_data = data.get("telegram", {})
         discord_data = data.get("discord", {})
+        discord_webhook_data = data.get("discord_webhook", {})
         whatsapp_data = data.get("whatsapp", {})
         return {
             "EMAIL": str(email_data.get("email", "")),
@@ -83,6 +86,7 @@ def load_secrets():
             "TELEGRAM_CHAT_ID": str(telegram_data.get("chat_id", "")),
             "DISCORD_BOT_TOKEN": str(discord_data.get("bot_token", "")),
             "DISCORD_CHANNEL_ID": str(discord_data.get("channel_id", "")),
+            "DISCORD_WEBHOOK_URL": str(discord_webhook_data.get("webhook_url", "")),
             "WHATSAPP_ACCESS_TOKEN": str(whatsapp_data.get("access_token", "")),
             "WHATSAPP_PHONE_NUMBER_ID": str(whatsapp_data.get("phone_number_id", "")),
             "WHATSAPP_TO": str(whatsapp_data.get("to", "")),
@@ -97,6 +101,7 @@ def load_secrets():
         "TELEGRAM_CHAT_ID": os.getenv("TELEGRAM_CHAT_ID", ""),
         "DISCORD_BOT_TOKEN": os.getenv("DISCORD_BOT_TOKEN", ""),
         "DISCORD_CHANNEL_ID": os.getenv("DISCORD_CHANNEL_ID", ""),
+        "DISCORD_WEBHOOK_URL": os.getenv("DISCORD_WEBHOOK_URL", ""),
         "WHATSAPP_ACCESS_TOKEN": os.getenv("WHATSAPP_ACCESS_TOKEN", ""),
         "WHATSAPP_PHONE_NUMBER_ID": os.getenv("WHATSAPP_PHONE_NUMBER_ID", ""),
         "WHATSAPP_TO": os.getenv("WHATSAPP_TO", ""),
@@ -112,6 +117,7 @@ TELEGRAM_BOT_TOKEN = SECRETS["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID = SECRETS["TELEGRAM_CHAT_ID"]
 DISCORD_BOT_TOKEN = SECRETS["DISCORD_BOT_TOKEN"] 
 DISCORD_CHANNEL_ID = SECRETS["DISCORD_CHANNEL_ID"] 
+DISCORD_WEBHOOK_URL = SECRETS["DISCORD_WEBHOOK_URL"]
 WHATSAPP_ACCESS_TOKEN = SECRETS["WHATSAPP_ACCESS_TOKEN"]
 WHATSAPP_PHONE_NUMBER_ID = SECRETS["WHATSAPP_PHONE_NUMBER_ID"]
 WHATSAPP_TO = SECRETS["WHATSAPP_TO"]
@@ -206,7 +212,7 @@ def get_free_to_claim():
                     "title": clean_text(title.text),
                     "link": game.get("href"),
                     "image": image["src"] if image else "",
-                    "time": "Limited Time Offer",
+                    "time": "Ограниченное предложение",
                 }
             )
 
@@ -233,7 +239,7 @@ def get_free_weekend():
                             "title": resolve_weekend_title(item),
                             "link": item.get("url"),
                             "image": item.get("header_image", ""),
-                            "time": clean_text(item.get("body")) or "Ends Soon (Free Weekend)",
+                            "time": "Доступно бесплатно в течение выходных",
                         }
                     )
 
@@ -454,6 +460,19 @@ def _discord_post(payload):
         response = requests.post(url, headers=headers, json=payload, timeout=30)
         response.raise_for_status()
 
+def _discord_webhook_post(payload):
+    """POST message to the Discord via webhook"""
+    webhook_urls = parse_csv_values(DISCORD_WEBHOOK_URL)
+    if not DISCORD_WEBHOOK_URL or not webhook_urls:
+        return
+    for webhook_url in webhook_urls:
+        response = requests.post(
+            webhook_url,
+            json=payload,
+            timeout=30
+        )
+        response.raise_for_status()
+
 
 def build_discord_game_embed(game):
     offer_type = game.get("type", "Offer")
@@ -463,8 +482,8 @@ def build_discord_game_embed(game):
         "url": game.get("link", "https://store.steampowered.com/"),
         "color": colour,
         "fields": [
-            {"name": "Type",    "value": offer_type,                  "inline": True},
-            {"name": "Details", "value": game.get("time", "N/A"),     "inline": True},
+            {"name": "Категория", "value": offer_type,             "inline": True},
+            {"name": "Описание", "value": game.get("time", "N/A"), "inline": True},
         ],
         "footer": {"text": "Steam Free Games Notifier"},
     }
@@ -486,6 +505,21 @@ def send_discord_notifications(games):
     # One embed per game
     for game in games:
         _discord_post({"embeds": [build_discord_game_embed(game)]})
+
+
+def send_discord_webhook_notifications(games):
+    if not CONFIG["notifications"]["discord_webhook"]:
+        return
+
+    if not DISCORD_WEBHOOK_URL:
+        return
+
+    # Summary message
+    _discord_webhook_post({"content": f"🎮 **Обновление бесплатных игр Steam**\n📦 **Количество предложений:** {len(games)}"})
+
+    # One embed per game
+    for game in games:
+        _discord_webhook_post({"embeds": [build_discord_game_embed(game)]})
 
 
 def build_whatsapp_summary(games):
@@ -578,6 +612,7 @@ if __name__ == "__main__":
         send_email(subject, html)
         send_telegram_notifications(games)
         send_discord_notifications(games)
+        send_discord_webhook_notifications(games)
         send_whatsapp_notifications(games)
         save_state(signature, games)
         print("Notifications sent and JSON state saved.")
