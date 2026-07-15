@@ -1,6 +1,6 @@
 {
-  "signature": "CURRENT:Nova Lands,Tattoo Tycoon|UPCOMING:Echo Generation: Midnight Edition,Luto",
-  "updated_at": "2026-07-12T11:49:12.064985+00:00",
+  "signature": "CURRENT:Nova Lands,Tattoo Tycoon|UPCOMING:Echo Generation: Midnight Edition,Foretales,Luto",
+  "updated_at": "2026-07-15T16:50:23.200226+00:00",
   "current_games": [
     {
       "title": "Nova Lands",
@@ -24,6 +24,13 @@
       "link": "https://store.epicgames.com/ru/p/echo-generation-midnight-edition-069026",
       "start": "16 Jul 2026, 22:00",
       "end": "23 Jul 2026, 22:00"
+    },
+    {
+      "title": "Foretales",
+      "image": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg",
+      "link": "https://store.epicgames.com/ru/p/foretales-d6c5bd",
+      "start": "23 Jul 2026, 22:00",
+      "end": "30 Jul 2026, 22:00"
     },
     {
       "title": "Luto",

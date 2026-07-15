@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **14 Jul 2026, 10:13 PM IST**  
+Last updated: **15 Jul 2026, 10:20 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -44,10 +44,11 @@ Source: Epic fallback from saved state, Steam live data
 
 ### Upcoming on Epic
 - **Echo Generation: Midnight Edition** - starts `16 Jul 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/echo-generation-midnight-edition-069026))
+- **Foretales** - starts `23 Jul 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/foretales-d6c5bd))
 - **Luto** - starts `16 Jul 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/luto-0a4ab3))
 
 ### Steam
-- No Steam freebies found.
+- **The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---
