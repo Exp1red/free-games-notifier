@@ -35,15 +35,15 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **22 Jul 2026, 10:25 PM IST**  
+Last updated: **23 Jul 2026, 10:26 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Echo Generation: Midnight Edition** - free until `23 Jul 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/echo-generation-midnight-edition-069026))
-- **Luto** - free until `23 Jul 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/luto-0a4ab3))
+- **Foretales** - free until `30 Jul 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/foretales-d6c5bd))
 
 ### Upcoming on Epic
-- **Foretales** - starts `23 Jul 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/foretales-d6c5bd))
+- **OTXO** - starts `30 Jul 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/otxo-396b8b))
+- **Sol Cesto** - starts `30 Jul 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/sol-cesto-e9b803))
 
 ### Steam
 - **The Life and Suffering of Sir Brante** - Free to Keep ([Open](https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/?snr=1_7_7_2300_150_1))
