@@ -35,19 +35,18 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **29 Jul 2026, 10:18 PM IST**  
+Last updated: **30 Jul 2026, 10:28 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Foretales** - free until `30 Jul 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/foretales-d6c5bd))
+- **OTXO** - free until `06 Aug 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/otxo-396b8b))
+- **Sol Cesto** - free until `06 Aug 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/sol-cesto-e9b803))
 
 ### Upcoming on Epic
 - **Beacon Pines** - starts `06 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/beacon-pines-629fc3))
-- **OTXO** - starts `30 Jul 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/otxo-396b8b))
-- **Sol Cesto** - starts `30 Jul 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/sol-cesto-e9b803))
+- **We Were Here Together** - starts `06 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/we-were-here-together-6a6d66))
 
 ### Steam
-- **The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1))
 - **Yet Another Zombie Defense HD** - Free to Keep ([Open](https://store.steampowered.com/app/674750/Yet_Another_Zombie_Defense_HD/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
