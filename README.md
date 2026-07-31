@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **30 Jul 2026, 10:28 PM IST**  
+Last updated: **31 Jul 2026, 10:32 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,7 +47,7 @@ Source: Epic fallback from saved state, Steam live data
 - **We Were Here Together** - starts `06 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/we-were-here-together-6a6d66))
 
 ### Steam
-- **Yet Another Zombie Defense HD** - Free to Keep ([Open](https://store.steampowered.com/app/674750/Yet_Another_Zombie_Defense_HD/?snr=1_7_7_2300_150_1))
+- **Necesse** - Free Weekend ([Open](https://store.steampowered.com/app/1169040))
 <!-- README_AUTO_SECTION:END -->
 
 ---
