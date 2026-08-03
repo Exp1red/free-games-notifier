@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **02 Aug 2026, 09:58 PM IST**  
+Last updated: **03 Aug 2026, 10:54 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,7 +47,7 @@ Source: Epic fallback from saved state, Steam live data
 - **We Were Here Together** - starts `06 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/we-were-here-together-6a6d66))
 
 ### Steam
-- **Necesse** - Free Weekend ([Open](https://store.steampowered.com/app/1169040))
+- No Steam freebies found.
 <!-- README_AUTO_SECTION:END -->
 
 ---
