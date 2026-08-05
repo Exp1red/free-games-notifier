@@ -1,6 +1,6 @@
 {
-  "signature": "CURRENT:OTXO,Sol Cesto|UPCOMING:Beacon Pines,We Were Here Together",
-  "updated_at": "2026-07-30T16:58:43.093041+00:00",
+  "signature": "CURRENT:OTXO,Sol Cesto|UPCOMING:Beacon Pines,Caravan SandWitch,We Were Here Together",
+  "updated_at": "2026-08-05T17:00:48.278289+00:00",
   "current_games": [
     {
       "title": "OTXO",
@@ -24,6 +24,13 @@
       "link": "https://store.epicgames.com/ru/p/beacon-pines-629fc3",
       "start": "06 Aug 2026, 22:00",
       "end": "13 Aug 2026, 22:00"
+    },
+    {
+      "title": "Caravan SandWitch",
+      "image": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg",
+      "link": "https://store.epicgames.com/ru/p/caravan-sandwitch-05ff58",
+      "start": "13 Aug 2026, 22:00",
+      "end": "20 Aug 2026, 22:00"
     },
     {
       "title": "We Were Here Together",

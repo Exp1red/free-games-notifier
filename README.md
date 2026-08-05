@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **04 Aug 2026, 10:42 PM IST**  
+Last updated: **05 Aug 2026, 10:30 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -44,6 +44,7 @@ Source: Epic fallback from saved state, Steam live data
 
 ### Upcoming on Epic
 - **Beacon Pines** - starts `06 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/beacon-pines-629fc3))
+- **Caravan SandWitch** - starts `13 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/caravan-sandwitch-05ff58))
 - **We Were Here Together** - starts `06 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/we-were-here-together-6a6d66))
 
 ### Steam
