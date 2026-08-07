@@ -35,20 +35,18 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **05 Aug 2026, 10:30 PM IST**  
+Last updated: **07 Aug 2026, 09:53 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **OTXO** - free until `06 Aug 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/otxo-396b8b))
-- **Sol Cesto** - free until `06 Aug 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/sol-cesto-e9b803))
+- **Beacon Pines** - free until `13 Aug 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/beacon-pines-629fc3))
+- **We Were Here Together** - free until `13 Aug 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/we-were-here-together-6a6d66))
 
 ### Upcoming on Epic
-- **Beacon Pines** - starts `06 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/beacon-pines-629fc3))
 - **Caravan SandWitch** - starts `13 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/caravan-sandwitch-05ff58))
-- **We Were Here Together** - starts `06 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/we-were-here-together-6a6d66))
 
 ### Steam
-- No Steam freebies found.
+- **Moonlighter** - Free to Keep ([Open](https://store.steampowered.com/app/606150/Moonlighter/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---
