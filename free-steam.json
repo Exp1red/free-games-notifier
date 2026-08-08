@@ -1,12 +1,19 @@
 {
-  "signature": "Free to Keep::Moonlighter::https://store.steampowered.com/app/606150/Moonlighter/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-08-07T16:23:00.276540+00:00",
+  "signature": "Free to Keep::Breathedge::https://store.steampowered.com/app/738520/Breathedge/?snr=1_7_7_2300_150_1|Free to Keep::Moonlighter::https://store.steampowered.com/app/606150/Moonlighter/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-08-08T15:55:21.239507+00:00",
   "games": [
+    {
+      "type": "Free to Keep",
+      "title": "Breathedge",
+      "link": "https://store.steampowered.com/app/738520/Breathedge/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/capsule_231x87.jpg?t=1786133858",
+      "time": "Ограниченное предложение"
+    },
     {
       "type": "Free to Keep",
       "title": "Moonlighter",
       "link": "https://store.steampowered.com/app/606150/Moonlighter/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/606150/0ce5d10f8dfca4114ddc7579f1edc0e700bd3deb/capsule_231x87.jpg?t=1785952913",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606150/0ce5d10f8dfca4114ddc7579f1edc0e700bd3deb/capsule_231x87.jpg?t=1785952913",
       "time": "Ограниченное предложение"
     }
   ]
