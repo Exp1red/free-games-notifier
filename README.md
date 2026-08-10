@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **09 Aug 2026, 09:26 PM IST**  
+Last updated: **10 Aug 2026, 09:52 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -46,8 +46,7 @@ Source: Epic fallback from saved state, Steam live data
 - **Caravan SandWitch** - starts `13 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/caravan-sandwitch-05ff58))
 
 ### Steam
-- **Breathedge** - Free to Keep ([Open](https://store.steampowered.com/app/738520/Breathedge/?snr=1_7_7_2300_150_1))
-- **Moonlighter** - Free to Keep ([Open](https://store.steampowered.com/app/606150/Moonlighter/?snr=1_7_7_2300_150_1))
+- No Steam freebies found.
 <!-- README_AUTO_SECTION:END -->
 
 ---
