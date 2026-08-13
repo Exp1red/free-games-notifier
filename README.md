@@ -35,16 +35,15 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **12 Aug 2026, 09:54 PM IST**  
+Last updated: **13 Aug 2026, 09:53 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Beacon Pines** - free until `13 Aug 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/beacon-pines-629fc3))
-- **We Were Here Together** - free until `13 Aug 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/we-were-here-together-6a6d66))
+- **Caravan SandWitch** - free until `20 Aug 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/caravan-sandwitch-05ff58))
 
 ### Upcoming on Epic
-- **Caravan SandWitch** - starts `13 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/caravan-sandwitch-05ff58))
 - **Cardpocalypse Standard Edition** - starts `20 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/cardpocalypse))
+- **Epic Mage Bundle** - starts `20 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/albion-online-epic-mage-bundle-2ceb19))
 
 ### Steam
 - No Steam freebies found.
