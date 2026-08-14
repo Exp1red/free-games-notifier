@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **13 Aug 2026, 09:53 PM IST**  
+Last updated: **14 Aug 2026, 09:51 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -46,7 +46,7 @@ Source: Epic fallback from saved state, Steam live data
 - **Epic Mage Bundle** - starts `20 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/albion-online-epic-mage-bundle-2ceb19))
 
 ### Steam
-- No Steam freebies found.
+- **Deponia** - Free to Keep ([Open](https://store.steampowered.com/app/214340/Deponia/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---
