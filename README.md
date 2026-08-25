@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **24 Aug 2026, 09:33 PM IST**  
+Last updated: **25 Aug 2026, 09:37 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,7 +47,8 @@ Source: Epic fallback from saved state, Steam live data
 - **Rival Stars Horse Racing : Desktop Edition** - starts `27 Aug 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/rival-stars-horse-racing-dd09de))
 
 ### Steam
-- **Over The Top: WWI** - Free Weekend ([Open](https://store.steampowered.com/app/2778610))
+- **Dokimon Quest** - Free to Keep ([Open](https://store.steampowered.com/app/2019300/Dokimon_Quest/?snr=1_7_7_2300_150_1))
+- **Microsoft Flight Simulator Suite: Themes Reimagined** - Free to Keep ([Open](https://store.steampowered.com/app/5004030/Microsoft_Flight_Simulator_Suite_Themes_Reimagined/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---
