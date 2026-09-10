@@ -35,15 +35,16 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **10 Sep 2026, 12:15 AM IST**  
+Last updated: **11 Sep 2026, 12:06 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Alone With You** - free until `10 Sep 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/alone-with-you-028a15))
+- **Astral Ascent** - free until `17 Sep 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/astral-ascent-b33bc2))
+- **Luftrausers** - free until `17 Sep 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/luftrausers-51e5e9))
 
 ### Upcoming on Epic
-- **Astral Ascent** - starts `10 Sep 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/astral-ascent-b33bc2))
-- **Luftrausers** - starts `10 Sep 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/luftrausers-51e5e9))
+- **Mindcop** - starts `17 Sep 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/mindcop-78e6c1))
+- **Shogun Showdown** - starts `17 Sep 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/shogun-showdown-61832d))
 
 ### Steam
 - No Steam freebies found.
