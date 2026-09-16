@@ -1,6 +1,6 @@
 {
-  "signature": "CURRENT:Astral Ascent,Luftrausers|UPCOMING:Mindcop,Shogun Showdown",
-  "updated_at": "2026-09-10T18:36:22.857158+00:00",
+  "signature": "CURRENT:Astral Ascent,Luftrausers|UPCOMING:Mechabellum,Mindcop,Shogun Showdown",
+  "updated_at": "2026-09-16T18:59:57.703390+00:00",
   "current_games": [
     {
       "title": "Astral Ascent",
@@ -18,6 +18,13 @@
     }
   ],
   "upcoming_games": [
+    {
+      "title": "Mechabellum",
+      "image": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-95319.jpg",
+      "link": "https://store.epicgames.com/ru/p/mechabellum-88a843",
+      "start": "24 Sep 2026, 22:00",
+      "end": "01 Oct 2026, 22:00"
+    },
     {
       "title": "Mindcop",
       "image": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
