@@ -1,33 +1,26 @@
 {
-  "signature": "Free to Keep::Crystal Crisis::https://store.steampowered.com/app/447700/Crystal_Crisis/?snr=1_7_7_2300_150_1|Free to Keep::Deadshot::https://store.steampowered.com/app/2484180/Deadshot/?snr=1_7_7_2300_150_1|Free to Keep::Dying Light: The Beast - Discharge Weapon Pack::https://store.steampowered.com/app/4355480/Dying_Light_The_Beast__Discharge_Weapon_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Space Menace::https://store.steampowered.com/app/2000040/Space_Menace/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-09-21T20:05:00.382492+00:00",
+  "signature": "Free to Keep::Deadshot::https://store.steampowered.com/app/2484180/Deadshot/?snr=1_7_7_2300_150_1|Free to Keep::Dying Light: The Beast - Discharge Weapon Pack::https://store.steampowered.com/app/4355480/Dying_Light_The_Beast__Discharge_Weapon_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Space Menace::https://store.steampowered.com/app/2000040/Space_Menace/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-09-22T19:01:18.243350+00:00",
   "games": [
-    {
-      "type": "Free to Keep",
-      "title": "Crystal Crisis",
-      "link": "https://store.steampowered.com/app/447700/Crystal_Crisis/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447700/capsule_231x87.jpg?t=1789325105",
-      "time": "Ограниченное предложение"
-    },
     {
       "type": "Free to Keep",
       "title": "Deadshot",
       "link": "https://store.steampowered.com/app/2484180/Deadshot/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484180/capsule_231x87.jpg?t=1789750382",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2484180/capsule_231x87.jpg?t=1789750382",
       "time": "Ограниченное предложение"
     },
     {
       "type": "Free to Keep",
       "title": "Dying Light: The Beast - Discharge Weapon Pack",
       "link": "https://store.steampowered.com/app/4355480/Dying_Light_The_Beast__Discharge_Weapon_Pack/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4355480/cb5feffeebc9d3dab3ca0dbba5178f7a5102a100/capsule_231x87.jpg?t=1789400832",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4355480/cb5feffeebc9d3dab3ca0dbba5178f7a5102a100/capsule_231x87.jpg?t=1789400832",
       "time": "Ограниченное предложение"
     },
     {
       "type": "Free to Keep",
       "title": "Space Menace",
       "link": "https://store.steampowered.com/app/2000040/Space_Menace/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000040/capsule_231x87.jpg?t=1789577223",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2000040/capsule_231x87.jpg?t=1789577223",
       "time": "Ограниченное предложение"
     }
   ]
