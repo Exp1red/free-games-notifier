@@ -35,19 +35,19 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **24 Sep 2026, 12:38 AM IST**  
+Last updated: **25 Sep 2026, 12:52 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Mindcop** - free until `24 Sep 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/mindcop-78e6c1))
-- **Shogun Showdown** - free until `24 Sep 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/shogun-showdown-61832d))
+- **Astrea Six Sided Oracles** - free until `01 Oct 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/astrea-six-sided-oracles-33c949))
+- **Mechabellum** - free until `01 Oct 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/mechabellum-88a843))
 
 ### Upcoming on Epic
-- **Astrea Six Sided Oracles** - starts `24 Sep 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/astrea-six-sided-oracles-33c949))
-- **Mechabellum** - starts `24 Sep 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/mechabellum-88a843))
+- **BURIED STARS** - starts `01 Oct 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/buried-stars-d7c88c))
+- **System Shock 2: 25th Anniversary Remaster** - starts `01 Oct 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/system-shock-2-25th-anniversary-remaster-cb94d9))
 
 ### Steam
-- **Dying Light: The Beast - Discharge Weapon Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4355480/Dying_Light_The_Beast__Discharge_Weapon_Pack/?snr=1_7_7_2300_150_1))
+- **Free Weekend** - Free Weekend ([Open](https://store.steampowered.com/app/393380))
 <!-- README_AUTO_SECTION:END -->
 
 ---
