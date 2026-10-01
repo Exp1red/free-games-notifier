@@ -35,19 +35,20 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **01 Oct 2026, 01:41 AM IST**  
+Last updated: **02 Oct 2026, 01:55 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Astrea Six Sided Oracles** - free until `01 Oct 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/astrea-six-sided-oracles-33c949))
-- **Mechabellum** - free until `01 Oct 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/mechabellum-88a843))
+- **BURIED STARS** - free until `08 Oct 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/buried-stars-d7c88c))
+- **System Shock 2: 25th Anniversary Remaster** - free until `08 Oct 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/system-shock-2-25th-anniversary-remaster-cb94d9))
 
 ### Upcoming on Epic
-- **BURIED STARS** - starts `01 Oct 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/buried-stars-d7c88c))
-- **System Shock 2: 25th Anniversary Remaster** - starts `01 Oct 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/system-shock-2-25th-anniversary-remaster-cb94d9))
+- **Out of Sight** - starts `08 Oct 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/out-of-sight-b96ca8))
+- **TerraScape** - starts `08 Oct 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/terrascape-2b12b1))
 
 ### Steam
-- No Steam freebies found.
+- **MXGP 26 - Scrubdesignz Liveries** - Free to Keep ([Open](https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1))
+- **Rotwood: Drakin Armoury Pack** - Free to Keep ([Open](https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---
