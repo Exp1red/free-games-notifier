@@ -1,6 +1,6 @@
 {
-  "signature": "Free Weekend::ARC Raiders::https://store.steampowered.com/app/1808500|Free Weekend::Core Keeper::https://store.steampowered.com/app/1621690|Free to Keep::Gear.Club Unlimited 3 - Gear.Club Signature Pack::https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1|Free to Keep::MXGP 26 - Scrubdesignz Liveries::https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1|Free to Keep::Pony Island::https://store.steampowered.com/app/405640/Pony_Island/?snr=1_7_7_2300_150_1|Free to Keep::Rotwood: Drakin Armoury Pack::https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1|Free to Keep::World of Warships — Ning Hai::https://store.steampowered.com/app/2283211/World_of_Warships__Ning_Hai/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-10-08T20:45:09.974671+00:00",
+  "signature": "Free Weekend::ARC Raiders::https://store.steampowered.com/app/1808500|Free Weekend::Core Keeper::https://store.steampowered.com/app/1621690|Free to Keep::Fireside Feelings::https://store.steampowered.com/app/2990600/Fireside_Feelings/?snr=1_7_7_2300_150_1|Free to Keep::Gear.Club Unlimited 3 - Gear.Club Signature Pack::https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1|Free to Keep::MXGP 26 - Scrubdesignz Liveries::https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1|Free to Keep::Pony Island::https://store.steampowered.com/app/405640/Pony_Island/?snr=1_7_7_2300_150_1|Free to Keep::Rotwood: Drakin Armoury Pack::https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1|Free to Keep::World of Warships — Ning Hai::https://store.steampowered.com/app/2283211/World_of_Warships__Ning_Hai/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-10-09T20:12:29.059522+00:00",
   "games": [
     {
       "type": "Free Weekend",
@@ -15,6 +15,13 @@
       "link": "https://store.steampowered.com/app/1621690",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/075e62689debb7eb3f0724e6/beefa4fcb21ce29ba09796e663569821859f07d4/vertical_capsule_english.png?t=1790795571",
       "time": "Доступно бесплатно в течение выходных"
+    },
+    {
+      "type": "Free to Keep",
+      "title": "Fireside Feelings",
+      "link": "https://store.steampowered.com/app/2990600/Fireside_Feelings/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2990600/785ca4e4adc7cdab1655f193ff77f01267ab2206/capsule_231x87.jpg?t=1789504567",
+      "time": "Ограниченное предложение"
     },
     {
       "type": "Free to Keep",
