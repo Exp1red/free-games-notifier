@@ -35,21 +35,22 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **15 Oct 2026, 01:03 AM IST**  
+Last updated: **16 Oct 2026, 12:47 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Out of Sight** - free until `15 Oct 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/out-of-sight-b96ca8))
-- **TerraScape** - free until `15 Oct 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/terrascape-2b12b1))
+- **Agent A: A puzzle in disguise** - free until `22 Oct 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/agent-a-a-puzzle-in-disguise-42fe5f))
+- **Bad Cheese** - free until `22 Oct 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/bad-cheese-4256d9))
 
 ### Upcoming on Epic
-- **Agent A: A puzzle in disguise** - starts `15 Oct 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/agent-a-a-puzzle-in-disguise-42fe5f))
-- **Bad Cheese** - starts `15 Oct 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/bad-cheese-4256d9))
+- **Home - A Unique Horror Adventure** - starts `22 Oct 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/home-19212a))
+- **Sker Ritual** - starts `22 Oct 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/sker-ritual-aac702))
 
 ### Steam
+- **Battlefield™ 6** - Free Weekend ([Open](https://store.steampowered.com/app/2807960))
 - **Gear.Club Unlimited 3 - Gear.Club Signature Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1))
-- **MXGP 26 - Scrubdesignz Liveries** - Free to Keep ([Open](https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1))
-- **Rotwood: Drakin Armoury Pack** - Free to Keep ([Open](https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1))
+- **Squad Weapon Skins - Recon Team Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4841320/Squad_Weapon_Skins__Recon_Team_Pack/?snr=1_7_7_2300_150_1))
+- **Stranded Deep** - Free Weekend ([Open](https://store.steampowered.com/app/313120))
 - **Voidtrain - Big Catch** - Free to Keep ([Open](https://store.steampowered.com/app/5007040/Voidtrain__Big_Catch/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
