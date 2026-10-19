@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **18 Oct 2026, 11:44 PM IST**  
+Last updated: **20 Oct 2026, 02:09 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,11 +47,8 @@ Source: Epic fallback from saved state, Steam live data
 - **Sker Ritual** - starts `22 Oct 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/sker-ritual-aac702))
 
 ### Steam
-- **Battlefield™ 6** - Free Weekend ([Open](https://store.steampowered.com/app/2807960))
 - **Gear.Club Unlimited 3 - Gear.Club Signature Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1))
 - **Squad Weapon Skins - Recon Team Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4841320/Squad_Weapon_Skins__Recon_Team_Pack/?snr=1_7_7_2300_150_1))
-- **Stranded Deep** - Free Weekend ([Open](https://store.steampowered.com/app/313120))
-- **Voidtrain - Big Catch** - Free to Keep ([Open](https://store.steampowered.com/app/5007040/Voidtrain__Big_Catch/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---
