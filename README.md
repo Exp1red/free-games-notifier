@@ -35,19 +35,18 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **22 Oct 2026, 12:57 AM IST**  
+Last updated: **23 Oct 2026, 12:50 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Agent A: A puzzle in disguise** - free until `22 Oct 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/agent-a-a-puzzle-in-disguise-42fe5f))
-- **Bad Cheese** - free until `22 Oct 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/bad-cheese-4256d9))
+- **Home - A Unique Horror Adventure** - free until `29 Oct 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/home-19212a))
+- **Sker Ritual** - free until `29 Oct 2026, 22:00` ([Claim](https://store.epicgames.com/ru/p/sker-ritual-aac702))
 
 ### Upcoming on Epic
-- **Home - A Unique Horror Adventure** - starts `22 Oct 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/home-19212a))
-- **Sker Ritual** - starts `22 Oct 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/sker-ritual-aac702))
+- **Sorry We're Closed** - starts `29 Oct 2026, 22:00` ([Store page](https://store.epicgames.com/ru/p/sorry-were-closed-724c86))
 
 ### Steam
-- **Gear.Club Unlimited 3 - Gear.Club Signature Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4114140/GearClub_Unlimited_3_GearClub_Signature_Pack/?snr=1_7_7_2300_150_1))
+- **Popcorn & Premieren - Ausgehviertel** - Free to Keep ([Open](https://store.steampowered.com/app/5340370/Popcorn_Premieren_Ausgehviertel/?snr=1_7_7_2300_150_2))
 - **Squad Weapon Skins - Recon Team Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4841320/Squad_Weapon_Skins_Recon_Team_Pack/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
