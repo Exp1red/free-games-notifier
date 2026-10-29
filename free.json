@@ -1,29 +1,29 @@
 {
-  "signature": "CURRENT:Home - A Unique Horror Adventure,Sker Ritual|UPCOMING:Sorry We're Closed",
-  "updated_at": "2026-10-22T19:20:14.263502+00:00",
+  "signature": "CURRENT:Sorry We're Closed|UPCOMING:Flotsam,Idle Champions of the Forgotten Realms",
+  "updated_at": "2026-10-29T20:25:36.471740+00:00",
   "current_games": [
-    {
-      "title": "Home - A Unique Horror Adventure",
-      "image": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
-      "link": "https://store.epicgames.com/ru/p/home-19212a",
-      "start": "22 Oct 2026, 22:00",
-      "end": "29 Oct 2026, 22:00"
-    },
-    {
-      "title": "Sker Ritual",
-      "image": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1tuka.png",
-      "link": "https://store.epicgames.com/ru/p/sker-ritual-aac702",
-      "start": "22 Oct 2026, 22:00",
-      "end": "29 Oct 2026, 22:00"
-    }
-  ],
-  "upcoming_games": [
     {
       "title": "Sorry We're Closed",
       "image": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
       "link": "https://store.epicgames.com/ru/p/sorry-were-closed-724c86",
       "start": "29 Oct 2026, 22:00",
       "end": "05 Nov 2026, 23:00"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "Flotsam",
+      "image": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg",
+      "link": "https://store.epicgames.com/ru/p/flotsam-266287",
+      "start": "05 Nov 2026, 23:00",
+      "end": "12 Nov 2026, 23:00"
+    },
+    {
+      "title": "Idle Champions of the Forgotten Realms",
+      "image": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1xbn9.jpg",
+      "link": "https://store.epicgames.com/ru/p/idle-champions-of-the-forgotten-realms",
+      "start": "05 Nov 2026, 23:00",
+      "end": "12 Nov 2026, 23:00"
     }
   ]
 }
