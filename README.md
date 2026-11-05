@@ -35,18 +35,20 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **05 Nov 2026, 02:53 AM IST**  
+Last updated: **06 Nov 2026, 03:00 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Sorry We're Closed** - free until `05 Nov 2026, 23:00` ([Claim](https://store.epicgames.com/ru/p/sorry-were-closed-724c86))
+- **Flotsam** - free until `12 Nov 2026, 23:00` ([Claim](https://store.epicgames.com/ru/p/flotsam-266287))
+- **Idle Champions of the Forgotten Realms** - free until `12 Nov 2026, 23:00` ([Claim](https://store.epicgames.com/ru/p/idle-champions-of-the-forgotten-realms))
 
 ### Upcoming on Epic
-- **Flotsam** - starts `05 Nov 2026, 23:00` ([Store page](https://store.epicgames.com/ru/p/flotsam-266287))
-- **Idle Champions of the Forgotten Realms** - starts `05 Nov 2026, 23:00` ([Store page](https://store.epicgames.com/ru/p/idle-champions-of-the-forgotten-realms))
+- **Knightica** - starts `12 Nov 2026, 23:00` ([Store page](https://store.epicgames.com/ru/p/knightica-3be45c))
 
 ### Steam
+- **Age of Wonders 4** - Free Weekend ([Open](https://store.steampowered.com/app/1669000))
 - **Hunting Simulator 3 - Classic American Hunter Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_1))
+- **PAYDAY 3** - Free Weekend ([Open](https://store.steampowered.com/app/1272080))
 <!-- README_AUTO_SECTION:END -->
 
 ---
