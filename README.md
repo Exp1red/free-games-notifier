@@ -35,18 +35,19 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **12 Nov 2026, 03:35 AM IST**  
+Last updated: **13 Nov 2026, 03:22 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Flotsam** - free until `12 Nov 2026, 23:00` ([Claim](https://store.epicgames.com/ru/p/flotsam-266287))
-- **Idle Champions of the Forgotten Realms** - free until `12 Nov 2026, 23:00` ([Claim](https://store.epicgames.com/ru/p/idle-champions-of-the-forgotten-realms))
+- **Knightica** - free until `19 Nov 2026, 23:00` ([Claim](https://store.epicgames.com/ru/p/knightica-3be45c))
 
 ### Upcoming on Epic
-- **Knightica** - starts `12 Nov 2026, 23:00` ([Store page](https://store.epicgames.com/ru/p/knightica-3be45c))
+- **Alien: Isolation** - starts `19 Nov 2026, 23:00` ([Store page](https://store.epicgames.com/ru/p/alien-isolation))
+- **Mark of the Deep** - starts `19 Nov 2026, 23:00` ([Store page](https://store.epicgames.com/ru/p/mark-of-the-deep-f7dc08))
 
 ### Steam
-- **Hunting Simulator 3 - Classic American Hunter Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_1))
+- **Cities: Skylines II** - Free Weekend ([Open](https://store.steampowered.com/app/949230))
+- **Deep Rock Galactic: Rogue Core** - Free Weekend ([Open](https://store.steampowered.com/app/2605790))
 <!-- README_AUTO_SECTION:END -->
 
 ---
