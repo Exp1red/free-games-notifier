@@ -35,13 +35,14 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **18 Nov 2026, 04:32 AM IST**  
+Last updated: **19 Nov 2026, 04:09 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
 - **Knightica** - free until `19 Nov 2026, 23:00` ([Claim](https://store.epicgames.com/ru/p/knightica-3be45c))
 
 ### Upcoming on Epic
+- **Firestone – Idle Clicker Online RPG** - starts `26 Nov 2026, 23:00` ([Store page](https://store.epicgames.com/ru/p/firestone-online-idle-rpg-bfd04b))
 - **Mark of the Deep** - starts `19 Nov 2026, 23:00` ([Store page](https://store.epicgames.com/ru/p/mark-of-the-deep-f7dc08))
 
 ### Steam
