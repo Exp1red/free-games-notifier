@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **23 Nov 2026, 02:38 AM IST**  
+Last updated: **24 Nov 2026, 07:57 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -46,7 +46,7 @@ Source: Epic fallback from saved state, Steam live data
 - **Firestone – Idle Clicker Online RPG** - starts `26 Nov 2026, 23:00` ([Store page](https://store.epicgames.com/ru/p/firestone-online-idle-rpg-bfd04b))
 
 ### Steam
-- **Crusader Kings III** - Free Weekend ([Open](https://store.steampowered.com/app/1158310))
+- No Steam freebies found.
 <!-- README_AUTO_SECTION:END -->
 
 ---
